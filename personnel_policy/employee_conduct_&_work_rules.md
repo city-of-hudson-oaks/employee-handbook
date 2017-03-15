@@ -1,4 +1,4 @@
-## Employee Conduct & Work Rules {#employee-conduct-work-rules}
+## 8. Employee Conduct & Work Rules {#employee-conduct-work-rules}
 
 ### 8.1 Disciplinary Action {#8-1-disciplinary-action}
 
