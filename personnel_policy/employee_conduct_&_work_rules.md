@@ -1,4 +1,4 @@
-## Employee Conduct &amp; Work Rules {#employee-conduct-work-rules}
+## Employee Conduct & Work Rules {#employee-conduct-work-rules}
 
 ### 8.1 Disciplinary Action {#8-1-disciplinary-action}
 
@@ -10,25 +10,25 @@ All business conduct should be above the minimum standards required by law. Acco
 
 **Employee Discipline.** The decision to issue employee discipline will be made after consideration of a variety of factors including, but not limited to the severity of the misconduct, the employee’s past work performance and prior disciplinary history, the employee’s length of service, and any mitigating circumstances. Depending on the circumstances of each individual case, disciplinary action may consist of one or more of the following:
 
-(A) counseling session;
+\(A\) counseling session;
 
-(B) documented verbal reprimand
+\(B\) documented verbal reprimand
 
-(C) written reprimand;
+\(C\) written reprimand;
 
-(D) suspension without pay;
+\(D\) suspension without pay;
 
-(E) reduction in rate of pay;
+\(E\) reduction in rate of pay;
 
-(F) demotion;
+\(F\) demotion;
 
-(G) discharge.
+\(G\) discharge.
 
 **Disciplinary Probation.** Employees who are suspended or demoted, or whose pay rate is reduced, will automatically be placed on disciplinary probation for up to six months. During the probationary period, employees have no right of appeal. Further, during any disciplinary probation period, the employee is not eligible for any merit pay increases.
 
 **Decision-Making Leave.** Decision-making leave with pay may be appropriate in some situations. It may be used alone, as an alternative to other types of discipline, or in combination with other forms of discipline. The purpose of decision-making leave with pay is to give employees time to decide if they wish to remain employed by the City, and if so, whether they can and will correct their behavior. An employee may only be given decision-making leave with pay once and the leave cannot exceed one day or one shift, as appropriate.
 
-**Pre-disciplinary Meeting.** When proposed disciplinary action includes suspension of one day or one shift (or more), a reduction of an employee’s rate of pay, demotion, or termination, the employee will be given an opportunity to respond to the allegations prior to disciplinary action being taken. The employee’s supervisor will meet with the employee, inform the employee in writing of the specific rule(s) violated; the specific acts of the employee which were in violation of the rule; and that discipline could be imposed, and give the employee at least 24 hours to respond to the charges, either orally or in writing.
+**Pre-disciplinary Meeting.** When proposed disciplinary action includes suspension of one day or one shift \(or more\), a reduction of an employee’s rate of pay, demotion, or termination, the employee will be given an opportunity to respond to the allegations prior to disciplinary action being taken. The employee’s supervisor will meet with the employee, inform the employee in writing of the specific rule\(s\) violated; the specific acts of the employee which were in violation of the rule; and that discipline could be imposed, and give the employee at least 24 hours to respond to the charges, either orally or in writing.
 
 **Review by Department Head.** Any proposed disciplinary action in excess of a verbal reprimand must be reviewed by the employee’s Department Head prior to being given to the employee. This applies to both probationary and non-probationary employees.
 
@@ -40,29 +40,25 @@ When an employee is arrested, charged or indicted for a felony or misdemeanor, o
 
 **Administrative Leave.** During an internal investigation into alleged misconduct or violations of City policies, the City may, at its sole discretion, place the employee on paid administrative leave.
 
-At the City Administrator’s discretion, an employee arrested, charged or indicted for a felony or misdemeanor, or accused of official misconduct or other serious criminal violation, may be placed on unpaid administrative leave until the charge, indictment or information is dismissed or fully adjudicated without trial, and, if tried, until the trial and appeal (if any) are completed and all related administrative matters are concluded. An employee on administrative leave may be reinstated to the position held before being placed on administrative leave (if available) if the indictment or information is dismissed, the employee is acquitted, or the conviction is reversed on appeal.
+At the City Administrator’s discretion, an employee arrested, charged or indicted for a felony or misdemeanor, or accused of official misconduct or other serious criminal violation, may be placed on unpaid administrative leave until the charge, indictment or information is dismissed or fully adjudicated without trial, and, if tried, until the trial and appeal \(if any\) are completed and all related administrative matters are concluded. An employee on administrative leave may be reinstated to the position held before being placed on administrative leave \(if available\) if the indictment or information is dismissed, the employee is acquitted, or the conviction is reversed on appeal.
 
 ### 8.2 Personal Appearance {#8-2-personal-appearance}
 
-**General Guidelines.** Dress, grooming, and personal cleanliness are vital to the City’s image as well as the morale of its employees. All employees are expected to present a clean and neat appearance and to dress in a professional manner while on City premises and/or while conducting City business. Reporting to work in a clean and professional manner helps the City to present a positive and professional public image. Employees are expected to dress appropriately for their job and the nature of the work performed. All employees must adhere to the following guidelines (excluding public works, police and managerial personnel):
+**General Guidelines.** Dress, grooming, and personal cleanliness are vital to the City’s image as well as the morale of its employees. All employees are expected to present a clean and neat appearance and to dress in a professional manner while on City premises and/or while conducting City business. Reporting to work in a clean and professional manner helps the City to present a positive and professional public image. Employees are expected to dress appropriately for their job and the nature of the work performed.
 
-(A) Khaki, navy or black cotton twill pants (“Dockers” style).
+Friday shall be a standing casual day, provided that attire remains appropriate for a professional business environment.
 
-(B) Collared shirt provided by the City.
-
-(C) Friday shall be a standing casual day, allowing employees the freedom to wear blue jeans and collared shirts that are appropriate for a professional business setting.
-
-(D) The City Administrator may declare a casual day at any time.
+The City Administrator may declare additional casual days at any time.
 
 **Employees Working at City Hall, Having Routine Contact with the Public and/or Other Third Party Contact.** Employees who work at City Hall, as well as other City employees who routinely have citizen and other third party contact, must also abide by the following:
 
-(A) No visible tattoos. Employees who have tattoos must keep them covered with a shirt, pants, skirt, socks, hosiery, or other clothing.
+\(A\) No visible tattoos. Employees who have tattoos must keep them covered with a shirt, pants, skirt, socks, hosiery, or other clothing.
 
-(B) No facial or mouth jewelry shall be worn. Women are permitted to wear a single or double earring in each earlobe provided the earring is not otherwise unprofessional in appearance. Men may not wear earrings.
+\(B\) No facial or mouth jewelry shall be worn. Women are permitted to wear a single or double earring in each earlobe provided the earring is not otherwise unprofessional in appearance. Men may not wear earrings.
 
-(C) Beards and mustaches must be kept clean and neatly trimmed and/or within department guidelines.
+\(C\) Beards and mustaches must be kept clean and neatly trimmed and/or within department guidelines.
 
-(D) Hairstyles and hair colors must be appropriate to the employee’s position.
+\(D\) Hairstyles and hair colors must be appropriate to the employee’s position.
 
 **Enforcement.** In all cases, the City will make the determination as to what is acceptable dress and grooming. Normally, the Department Head will determine appropriateness; however, the City Administrator has final determination. If you have any questions about the dress code, please ask your supervisor or Department Head.
 
@@ -70,19 +66,19 @@ Anyone who is not appropriately groomed or who dresses in violation of the polic
 
 ### 8.3 Uniforms {#8-3-uniforms}
 
-The City supplies those employees required to wear uniforms with appropriate uniforms. If your job requires that you wear a uniform, you will be told how and where they can be obtained. Appropriate shoes and hats may also be required - in some cases they will be furnished to the employee by the City. Replacement uniforms will be provided by the City as necessary. Uniforms must be clean, neat and in good repair when worn.
+The City supplies those employees required to wear uniforms with appropriate uniforms. If your job requires that you wear a uniform, you will be told how and where they can be obtained. Appropriate shoes and hats may also be required - in some cases they will be furnished to the employee by the City. Replacement uniforms will be provided by the City as necessary. Uniforms must be clean, neat, and in good repair when worn.
 
-City-owned or authorized uniforms may not be used by City employees outside of work, for personal use, or by any third party. City uniforms may be used by City employees in connection with their outside employment only if their Department Head and the City Administrator have given prior written authorization.
+City-owned or authorized uniforms may not be used by City employees outside of work, for personal use, or by any third party. City uniforms may be used by City employees in connection with their outside employment only if their Department Head and/or the City Administrator have given prior written authorization.
 
 Uniforms for public safety employees will be provided and employees must abide by these policies, as well as their department’s policies regulating uniforms.
 
 ### 8.4 Unauthorized or Improper Use of Official Uniform, Badge, or Authority {#8-4-unauthorized-or-improper-use-of-official-uniform-badge-or-authority}
 
-Employees whose duties involve the use of a badge, identification card, uniform or insignia as evidence of authority or for identification purposes may not permit such badge, identification card, uniform or insignia to be used or worn by another person who is not authorized to use or wear same, nor permit same to be out of his of her possession. Badges, identification cards, uniforms and insignia may only be used in the performance of the official duties of the position to which they relate. Badges, identification cards, must be worn at all times and be visible to citizens and co-workers, unless such display would interfere or jeopardize an official cover or undercover investigation.
+Employees whose duties involve the use of a badge, identification card, uniform, or insignia as evidence of authority or for identification purposes may not permit such badge, identification card, uniform, or insignia to be used or worn by another person who is not authorized to use or wear same, nor permit same to be out of his of her possession. Badges, identification cards, uniforms and insignia may only be used in the performance of the official duties of the position to which they relate. Badges, identification cards, must be worn at all times and be visible to citizens and co-workers, unless such display would interfere or jeopardize an official cover or undercover investigation.
 
 ### 8.5 Housekeeping Duties {#8-5-housekeeping-duties}
 
-Each employee is responsible for maintaining a neat, sanitary and orderly work area, including, if applicable, office spaces, vehicles and equipment.
+Each employee is responsible for maintaining a neat, sanitary, and orderly work area, including, if applicable, office spaces, vehicles, and equipment.
 
 ### 8.6 Safety {#8-6-safety}
 
@@ -90,89 +86,83 @@ The City strives to conduct its operations with the utmost regard for the health
 
 **Reporting Requirements.** Employees must immediately report any unsafe condition, equipment or practices to the appropriate supervisor and/or Department Head. In addition, all accidents and injuries, however slight or seemingly inconsequential, must immediately be reported to the appropriate supervisor and/or the Department Head. If needed, first aid or medical treatment should be requested. An employee report of accident form must be completed by each employee involved in an accident or injury and turned into the employee’s supervisor. Such reports are necessary so that the City can remain in compliance with applicable laws and begin workers’ compensation benefit procedures where appropriate. Failure to complete and turn in the employee report of accident form and/or failure to report any accident or injury within twenty-four hours of its occurrence will likely result in disciplinary action, up to and including termination of employment.
 
-**Departmental Rules.** Certain Departments will have safety rules specific to the duties performed and equipment used. These policies may include training requirements (including initial training for new employees as well as on-going training for other employees), use of protective equipment and clothing, and other appropriate topics. Employees with questions regarding safety should talk to their supervisor.
+**Departmental Rules.** Certain Departments will have safety rules specific to the duties performed and equipment used. These policies may include training requirements \(including initial training for new employees as well as on-going training for other employees\), use of protective equipment and clothing, and other appropriate topics. Employees with questions regarding safety should talk to their supervisor.
 
 ### 8.7 Searches {#8-7-searches}
 
-The City may, at any time, conduct unannounced searches or inspections of the worksite, including, but not limited to, City property used by employees such as lockers, file cabinets, desks, vehicles, and offices, whether secured, unsecured or secured by a lock provided by the employee. If reasonable suspicion exists, the City may also conduct unannounced searches or inspection of the employee’s personal property located on City premises, including purses, lunch boxes, brief cases and private vehicles or vehicles used to conduct City business located on City property. Employees are not entitled to any expectation of privacy with respect to such items.
+The City may, at any time, conduct unannounced searches or inspections of the worksite, including, but not limited to, City property used by employees such as lockers, file cabinets, desks, vehicles, and offices, whether secured, unsecured or secured by a lock provided by the employee. If reasonable suspicion exists, the City may also conduct unannounced searches or inspection of the employee’s personal property located on City premises, including purses, lunch boxes, briefcases, and private vehicles or vehicles used to conduct City business located on City property. Employees are not entitled to any expectation of privacy with respect to such items.
 
 All searches must be authorized in advance by the City Administrator and conducted under the direction of the Department Head and/or City Administrator. Employees who refuse to cooperate with a search will likely be subject to disciplinary action, up to and including termination.
 
 ### 8.8 Smoking and Tobacco Products {#8-8-smoking-and-tobacco-products}
 
-In keeping with the City’s desire to provide a safe and healthful work environment, smoking (and the use of other tobacco products) is prohibited throughout the workplace, including City vehicles. Smoking is only permitted outside, in areas specifically designated for smoking. Smoking is not permitted during an employee’s work time -- it is only permitted during meal breaks, designated rest periods, before and after regular business hours. When conducting City business in the offices or other premises of a third party, employees must follow their smoking policies.
+In keeping with the City’s desire to provide a safe and healthful work environment, smoking \(and the use of other tobacco products\) is prohibited throughout the workplace, including City vehicles. Smoking is only permitted outside, in areas specifically designated for smoking. Smoking is not permitted during an employee’s work time -- it is only permitted during meal breaks, designated rest periods, before and after regular business hours. When conducting City business in the offices or other premises of a third party, employees must follow their smoking policies.
 
 This policy applies equally to all employees, citizens, and other visitors. Employees who violate this policy will be subject to disciplinary action, up to and including termination of employment.
 
 ### 8.9 Use of City Equipment {#8-9-use-of-city-equipment}
 
-From time to time, the City may issue equipment or other property to employees, e.g., purchasing cards (credit cards), keys, tools, security passes, manuals, written materials, telephone cards, uniforms, mobile telephones, 2-way radios, computers, and computer-related equipment. Employees are responsible for items formally issued to them by the City, as well as for items otherwise in their possession or control or used by them in the performance of their duties. At the time of issuance, employees may be required to sign certain forms or other documentation evidencing their receipt of property and/or equipment and authorizing a payroll deduction for the cost of lost, damaged or unreturned items. In addition to payroll deductions, the City may take any other action it deems appropriate or necessary to recover and/or protect its property.
+From time to time, the City may issue equipment or other property to employees, e.g., purchasing cards \(credit cards\), keys, tools, security passes, manuals, written materials, telephone cards, uniforms, mobile telephones, 2-way radios, computers, and computer-related equipment. Employees are responsible for items formally issued to them by the City, as well as for items otherwise in their possession or control or used by them in the performance of their duties. At the time of issuance, employees may be required to sign certain forms or other documentation evidencing their receipt of property and/or equipment and authorizing a payroll deduction for the cost of lost, damaged or unreturned items. In addition to payroll deductions, the City may take any other action it deems appropriate or necessary to recover and/or protect its property.
 
 Equipment essential in accomplishing job duties is often expensive and may be difficult to replace. When using equipment owned or leased by the City, employees are expected to exercise care, perform required maintenance, and follow all operating instructions, safety standards, and guidelines. The City’s equipment and other property may not be removed from the premises or used for personal business. Under no circumstances may City property be loaned or rented.
 
 You must notify your supervisor immediately if any equipment, machines, or tools appear to be damaged or defective, or are in need of repair. Your supervisor can answer any questions about your responsibility for maintenance and care of equipment used on the job. The improper, careless, negligent, destructive, or unsafe use or operation of equipment will likely result in disciplinary action, up to and including termination of employment.
 
-**City Owned Computers Used Primarily At Home.** City-owned computers may be issued to certain employees for use at their home or other locations for City business, subject to advance written approval by the City Administrator. Employees who are issued a City computer agree to the following:
+**City Owned Computers Used Primarily At Home.** City-owned computers may be issued to certain employees for use at their home or other locations for City business, subject to advance written approval by the City Administrator. Employees who are issued a City computer primary for home use agree to the following:
 
-(A) An itemized list describing in detail all City hardware and software must be made and signed by both the employee and the City Administrator before an employee may take a City computer home;
+\(A\) An itemized list describing in detail all City hardware must be made and signed by both the employee and the City Administrator before an employee may take a City computer home;
 
-(B) Prior to being issued a City computer and related items for home use, the employee must acknowledge, in writing, that this policy has been read, understood, and will be followed;
+\(B\) Prior to being issued a City computer and related items for home use, the employee must acknowledge, in writing, that this policy has been read, understood, and will be followed;
 
-(C) The employee will not use the City computer and/or related items for any purpose other than City business;
+\(C\) The employee will not use the City computer and/or related items for any purpose other than City business;
 
-(D) The employee may not allow anyone else to use the computer and/or related items assigned to him/her;
+\(D\) The employee may not allow anyone else to use the computer and/or related items assigned to him/her;
 
-(E) The employee will maintain the computer and related items in good working order;
+\(E\) The employee will maintain the computer and related items in good working order;
 
-(F) The employee will immediately (within 24 hours or sooner) return the City computer and related items if requested by the City Administrator for any reason;
+\(F\) The employee will immediately \(within 24 hours or sooner\) return the City computer and related items if requested by the City Administrator for any reason;
 
-(G) The employee will return the City computer and related items immediately upon termination of employment; and
+\(G\) The employee will return the City computer and related items immediately upon termination of employment; and
 
-(H) A payroll deduction will be made for the cost of lost, damaged or unreturned items; in addition to payroll deductions, the City may take any other action it deems appropriate or necessary to recover and/or protect its property.
+\(H\) A payroll deduction will be made for the cost of lost, damaged or unreturned items; in addition to payroll deductions, the City may take any other action it deems appropriate or necessary to recover and/or protect its property.
 
 ### 8.10 Use of City Vehicles {#8-10-use-of-city-vehicles}
 
 City-owned or leased vehicles may only be used for official City business. City owned or leased vehicles may only be driven by authorized City employees. If an employee drives his or her own vehicle to conduct City-related business, or a City-owned, rented or leased vehicle, the employee must comply with the following:
 
-(A) Employee must have a valid State of Texas driver’s license appropriate for the vehicle operated and must inform his or her supervisor of any change in status.
+\(A\) Employee must have a valid State of Texas driver’s license appropriate for the vehicle operated and must inform his or her supervisor of any change in status.
 
-(B) Employee must always observe all posted laws and speed limits.
+\(B\) Employee must always observe all posted laws and speed limits.
 
-(C) Employee must always wear seat belts when the vehicle is in operation.
+\(C\) Employee must always wear seat belts when the vehicle is in operation.
 
-(D) AT NO TIME MAY AN EMPLOYEE UNDER THE INFLUENCE OF ALCOHOL OR ILLEGAL DRUGS DRIVE A CITY VEHICLE OR A PERSONAL VEHICLE WHILE CONDUCTING CITY BUSINESS.
+\(D\) AT NO TIME MAY AN EMPLOYEE UNDER THE INFLUENCE OF ALCOHOL OR ILLEGAL DRUGS DRIVE A CITY VEHICLE OR A PERSONAL VEHICLE WHILE CONDUCTING CITY BUSINESS.
 
-(E) EMPLOYEES INVOLVED IN AN ACCIDENT WHILE OPERATING A CITY VEHICLE, OR WHILE OPERATING A PERSONAL VEHICLE ON CITY BUSINESS, MUST IMMEDIATELY NOTIFY THE PROPER LAW ENFORCEMENT AGENCY (IF APPLICABLE) AND THE APPROPRIATE SUPERVISOR, DEPARTMENT HEAD AND/OR CITY ADMINISTRATOR. ANY ACCIDENT REPORTS, ALONG WITH ANY LAW ENFORCEMENT REPORT, MUST BE FILED BY THE EMPLOYEE WITH THE DEPARTMENT HEAD THE DAY OF THE ACCIDENT (Accident Report Forms can be obtained from the Human Resources Coordinator). AFTER FILLING OUT THE ACCIDENT REPORT, EMPLOYEES INVOLVED IN ACCIDENT WHILE OPERATING A CITY VEHICLE MUST TAKE A DRUG SCREEN IMMEDIATELY FOLLOWING (The Drug Screen will be set up by the Human Resources Coordinator).
+\(E\) EMPLOYEES INVOLVED IN AN ACCIDENT WHILE OPERATING A CITY VEHICLE, OR WHILE OPERATING A PERSONAL VEHICLE ON CITY BUSINESS, MUST IMMEDIATELY NOTIFY THE PROPER LAW ENFORCEMENT AGENCY \(IF APPLICABLE\) AND THE APPROPRIATE SUPERVISOR, DEPARTMENT HEAD AND/OR CITY ADMINISTRATOR. ANY ACCIDENT REPORTS, ALONG WITH ANY LAW ENFORCEMENT REPORT, MUST BE FILED BY THE EMPLOYEE WITH THE DEPARTMENT HEAD THE DAY OF THE ACCIDENT \(Accident Report Forms can be obtained from the Human Resources Coordinator\). AFTER FILLING OUT THE ACCIDENT REPORT, EMPLOYEES INVOLVED IN ACCIDENT WHILE OPERATING A CITY VEHICLE MUST TAKE A DRUG SCREEN IMMEDIATELY FOLLOWING \(The Drug Screen will be set up by the Human Resources Coordinator\).
 
 Employees who drive a City-owned, rented or leased vehicle must also comply with the following:
 
-(A) No passengers other than other City employees or others on City business unless otherwise approved in advance by a supervisor.
+\(A\) No passengers other than other City employees or others on City business unless otherwise approved in advance by a supervisor.
 
-(B) No personal use of City-provided vehicles is allowed without the prior, specific approval of your Department Head.
+\(B\) No personal use of City-provided vehicles is allowed without the prior, specific approval of your Department Head.
 
-(C) All maintenance and use records must be completed as directed by a supervisor.
+\(C\) All maintenance and use records must be completed as directed by a supervisor.
 
-(D) Report any broken, missing, or worn parts, tires, etc., or any needed maintenance, to a supervisor immediately.
+\(D\) Report any broken, missing, or worn parts, tires, etc., or any needed maintenance, to a supervisor immediately.
 
-(E) All drivers must be eligible for coverage under the City’s insurance policy.
+\(E\) All drivers must be eligible for coverage under the City’s insurance policy.
 
-(F) Drivers covered by Department of Transportation regulations must comply with them at all times.
+\(F\) Drivers covered by Department of Transportation regulations must comply with them at all times.
 
 **Accident Review Board**
 
-A. An Accident Review Board will be established to review all vehicle accidents and damage. The chairman will be appointed by the Chief of Police or his designee and will serve a one year period. The Board will be comprised of the following personnel:
-
-1. one supervisor – chairman (No Vote)
-
-2. one patrol officer
-
-3. one city employee from administration
-
-4. one city employee from public works
-
-5. one outside law enforcement Agency Officer
-
-B. At the discretion of the City Administrator the Accident Review Board may review and recommend action on other accidents involving the City of Hudson Oaks vehicles.
+1. An Accident Review Board will be established to review all vehicle accidents and damage. The chairman will be appointed by the Chief of Police or his designee and will serve a one year period. The Board will be comprised of the following personnel:
+   1. One supervisor – chairman \(No Vote\)
+   2. One patrol officer
+   3. One city employee from administration
+   4. One city employee from public works
+   5. One outside law enforcement Agency Officer
+2. At the discretion of the City Administrator the Accident Review Board may review and recommend action on other accidents involving the City of Hudson Oaks vehicles.
 
 The City may, at any time, check the driving record of a City employee who drives as part of his/her job duties to determine that he/she maintains the necessary qualifications as a City driver. Employees agree that they will cooperate by providing the City any authorization that may be required for this purpose.
 
@@ -188,9 +178,9 @@ Accurate and reliable records are necessary to meet the City’s legal and finan
 
 Employees must not make or engage in any false record or communication of any kind, whether internal or external, including, but not limited to:
 
-(A) False expenses, attendance, production, financial, or other similar reports or statement.
+\(A\) False expenses, attendance, production, financial, or other similar reports or statement.
 
-(B) False advertising, deceptive marketing practices, or other misleading representations.
+\(B\) False advertising, deceptive marketing practices, or other misleading representations.
 
 Supervisors, or their designees, are responsible for locking and securing all doors, gates, chains, locks, setting alarms, etc., and for key removal from vehicles and equipment. Other security measures may also be required from time to time. Failing to comply with security precautions is a serious violation of City policy.
 
@@ -224,37 +214,37 @@ The City expects that employees will perform their duties conscientiously, hones
 
 All employees share a serious responsibility for the City’s good public relations, especially at the community level. Their readiness to help with religious, charitable, educational, and civic activities brings credit to the City and is encouraged. Employees must, however, avoid acquiring any business interest or participating in any activity that would, or would appear to:
 
-(A) Create an excessive demand on their time to the extent that it deprives the City of the employee’s best efforts on the job.
+\(A\) Create an excessive demand on their time to the extent that it deprives the City of the employee’s best efforts on the job.
 
-(B) Create an obligation, interest or distraction that may interfere with the independent exercise of judgment in the City’s best interest.
+\(B\) Create an obligation, interest, or distraction that may interfere with the independent exercise of judgment in the City’s best interest.
 
 An employee of the City shall not:
 
-(A) Invest in or acquire a personal financial interest in any business that has a contractual relationship with the City, or that provides goods or services to the City, if such interest could influence or create the impression of influencing an employee’s decisions in the performance of duties on behalf of the City.
+\(A\) Invest in or acquire a personal financial interest in any business that has a contractual relationship with the City, or that provides goods or services to the City, if such interest could influence or create the impression of influencing an employee’s decisions in the performance of duties on behalf of the City.
 
-(B) Accept entertainment, gifts or personal favors that could, in any way, influence or create the impression of influencing the employee’s decisions in the performance of duties on behalf of the City.
+\(B\) Accept entertainment, gifts, or personal favors that could, in any way, influence or create the impression of influencing the employee’s decisions in the performance of duties on behalf of the City.
 
-(C) Receive payment or compensation of any kind, except authorized under the City’s policies. In particular, the City strictly prohibits the acceptance of kickbacks or commissions from suppliers or others. Any breach of this rule will result in termination and prosecution to the fullest extent of the law.
+\(C\) Receive payment or compensation of any kind, except authorized under the City’s policies. In particular, the City strictly prohibits the acceptance of kickbacks or commissions from suppliers or others. Any breach of this rule will result in termination and prosecution to the fullest extent of the law.
 
-(D) Use a municipal title, position or uniform in any advertisement or endorsement of products.
+\(D\) Use a municipal title, position, or uniform in any advertisement or endorsement of products.
 
 ### 8.14 Political Activities {#8-14-political-activities}
 
 City employees will not be appointed or retained on the basis of their political support or activities. City employees are encouraged to vote and to exercise other prerogatives of citizenship consistent with state and federal law and these policies. A City employee may not:
 
-(A) Publicly endorse or campaign in any manner for any person seeking a City of Hudson Oaks public office.
+\(A\) Publicly endorse or campaign in any manner for any person seeking a City of Hudson Oaks public office.
 
-(B) Use his/her position or office to coerce political support from employees or citizens.
+\(B\) Use his/her position or office to coerce political support from employees or citizens.
 
-(C) Use his/her official authority or influence to interfere with or affect the result of a campaign issue, an election or a nomination for public office.
+\(C\) Use his/her official authority or influence to interfere with or affect the result of a campaign issue, an election or a nomination for public office.
 
-(D) Make, solicit or receive any contribution to the campaign funds of any candidate for City Council, directly or indirectly through an organization or association; or take any part in the management, affairs or political campaign of any such candidate; provided nothing herein shall infringe the constitutional rights of such office or employee to express his or her opinions and to cast his or her vote.
+\(D\) Make, solicit, or receive any contribution to the campaign funds of any candidate for City Council, directly or indirectly through an organization or association; or take any part in the management, affairs or political campaign of any such candidate; provided nothing herein shall infringe the constitutional rights of such office or employee to express his or her opinions and to cast his or her vote.
 
-(E) Use working hours or City property to be in any way associated with soliciting or receiving any subscription, contribution or political service or to circulate petitions or campaign literature on behalf of an election issue or candidates for public office in any jurisdiction.
+\(E\) Use working hours or City property to be in any way associated with soliciting or receiving any subscription, contribution or political service or to circulate petitions or campaign literature on behalf of an election issue or candidates for public office in any jurisdiction.
 
-(F) Contribute money, labor, time or other valuable thing to any person for City election purposes.
+\(F\) Contribute money, labor, time or other valuable thing to any person for City election purposes.
 
-(G) Hold an appointive or elective office of public trust where service would constitute a direct conflict of interest with City employment, (e.g. City Council). Upon becoming a candidate for such an office, an employee must immediately resign or be dismissed upon failure to do so. If the employee loses the election, he or she may seek reinstatement if the employee’s former position is still open and available.
+\(G\) Hold an appointive or elective office of public trust where service would constitute a direct conflict of interest with City employment, \(e.g. City Council\). Upon becoming a candidate for such an office, an employee must immediately resign or be dismissed upon failure to do so. If the employee loses the election, he or she may seek reinstatement if the employee’s former position is still open and available.
 
 Notwithstanding any provision in this policy, a sworn employee of the police or fire department may engage in political activities to the extent permitted by state law.
 
@@ -272,21 +262,21 @@ Definitions of Harassment. Harassment constitutes discrimination and is illegal 
 
 For the purpose of this policy, sexual harassment is defined as unwelcome sexual advances, requests for sexual favors and other verbal or physical conduct of a sexual nature when:
 
-(A) Submission to such conduct is made either explicitly or implicitly a term or condition of an individual’s employment;
+\(A\) Submission to such conduct is made either explicitly or implicitly a term or condition of an individual’s employment;
 
-(B) Submission to or rejection of such conduct by an individual is used as the basis for employment decisions affecting such individual; or
+\(B\) Submission to or rejection of such conduct by an individual is used as the basis for employment decisions affecting such individual; or
 
-(C) Such conduct has the purpose or effect of unreasonably interfering with an individual’s work performance or creating an intimidating, hostile or offensive working environment.
+\(C\) Such conduct has the purpose or effect of unreasonably interfering with an individual’s work performance or creating an intimidating, hostile or offensive working environment.
 
 Sexual harassment may include a range of subtle and not so subtle behaviors and may involve individuals of the same or different gender. Depending on the circumstances, these behaviors may include, but are not limited to: unwanted sexual advances or requests for sexual favors; sexual jokes and innuendo; verbal abuse of a sexual nature; commentary about an individual’s body, sexual prowess or sexual deficiencies; leering, whistling or touching; insulting or obscene comments or gestures; display in the workplace or sexually suggestive objects or pictures; and other physical, verbal or visual conduct of a sexual nature.
 
 Harassment on the basis of any other protected characteristic is also strictly prohibited. Under this policy, harassment is verbal or physical conduct that singles out, denigrates or shows hostility or aversion toward an individual because of his/her race, color, religion, sex, sexual orientation, national origin, age, disability, marital status, veteran status, citizenship or any other characteristic protected by law or that of his/her relatives, friends or associates, and that:
 
-(A) has the purpose or effect of creating an intimidating, hostile or offensive work environment;
+\(A\) has the purpose or effect of creating an intimidating, hostile or offensive work environment;
 
-(B) has the purpose or effect of unreasonably interfering with an individual’s work performance; or
+\(B\) has the purpose or effect of unreasonably interfering with an individual’s work performance; or
 
-(C) otherwise adversely affects an individual’s employment opportunities.
+\(C\) otherwise adversely affects an individual’s employment opportunities.
 
 Harassing conduct includes, but is not limited to epithets, slurs or negative stereotyping; threatening, intimidating or hostile acts; denigrating jokes; and written or graphic material that singles out, denigrates or shows hostility or aversion toward an individual or group and that is placed on walls or elsewhere on the employer’s premises or circulated in the workplace.
 
@@ -319,3 +309,4 @@ Finally, this policy should not, and may not, be used as a basis for excluding o
 ### 8.16 Smoking in Buildings Owned or Leased by City {#8-16-smoking-in-buildings-owned-or-leased-by-city}
 
 Smoking is prohibited in buildings owned or leased by the City and at all entrances to public buildings owned or leased by the City.
+
