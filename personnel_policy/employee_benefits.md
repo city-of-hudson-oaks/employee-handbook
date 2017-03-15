@@ -1,4 +1,4 @@
-## Employee Benefits {#employee-benefits}
+## 5. Employee Benefits {#employee-benefits}
 
 ### 5.1 Overview {#5-1-overview}
 
@@ -259,6 +259,7 @@ This policy covers regular employees who serve in reserve or active military ser
 5. Medical and Dental. While an employee is on military leave of less than 31 days, the City will continue to pay its portion of the monthly premium for group health benefits. When military leave exceeds 31 days, the employee may elect to continue group health coverage for up to 18 months following separation of employment or until their re-employment rights expire, whichever event occurs first, for himself/herself and eligible dependent
 
    Upon an employee’s return to employment following military service, the City will provide health insurance coverage immediately, even if a waiting period is normally required for new or returning employees. In addition, a returning employee will not be subjected to exclusions from coverage unless the exclusions apply to injuries or conditions that were incurred as a result of military service.
+
 6. Other Benefits. While on paid military leave, employees continue to accrue vacation, sick leave and other benefits provided to other employees on paid leave. While on unpaid military leave, employees are generally ineligible for most City-provided benefits. Benefit accruals, such as vacation and sick leave, do not accrue while an employee is on unpaid leave, including unpaid military leave. While on unpaid military leave, benefit accruals will be suspended and will resume upon the employee’s return to active employment. Upon return to active employment following military leave, employees will be treated as though they were continuously employed for purposes of determining seniority and benefits based on length of service, such as vacation accrual.
 7. TMRS. Typically, an employee’s period of uniformed service is deemed to constitute service for purposes of vesting and benefit accrual. Thus, employees earn service credit for time spent on active duty military leave. Service time is credited when an employee returns to work. To qualify for service credit, an employee must return to work for the City within 90 days after discharge; receive an honorable discharge; and timely complete the necessary application. In order to receive monetary credit, an employee has the lesser of 5 years or 3 times the length of the military service to make up any TMRS contributions that were missed while on military leave.
 8. Returning from Leave.
