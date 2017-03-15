@@ -1,4 +1,4 @@
-## Promotion, Transfer, Demotion, &amp; Rehiring {#promotion-transfer-demotion-rehiring}
+## 6. Promotion, Transfer, Demotion, & Rehiring {#promotion-transfer-demotion-rehiring}
 
 ### 6.1 Promotion from Within {#6-1-promotion-from-within}
 
@@ -6,7 +6,7 @@ It is the City’s policy to promote from within whenever management believes a 
 
 ### 6.2 Transfers {#6-2-transfers}
 
-Under certain circumstances, non-promotional reassignments (“lateral transfers”) may be approved if determined by management to be in the best interests of the City and/or the employee. Transfers may be initiated by either the employee or the City and normally occur in response to the business needs of the City and/or other extenuating circumstances. Lateral transfers are usually reassignments from one position to another of comparable duties and salary.
+Under certain circumstances, non-promotional reassignments \(“lateral transfers”\) may be approved if determined by management to be in the best interests of the City and/or the employee. Transfers may be initiated by either the employee or the City and normally occur in response to the business needs of the City and/or other extenuating circumstances. Lateral transfers are usually reassignments from one position to another of comparable duties and salary.
 
 ### 6.3 Demotion {#6-3-demotion}
 
@@ -15,3 +15,4 @@ An employee may be demoted from a position in one classification range to a posi
 ### 6.4 Rehires {#6-4-rehires}
 
 Employees who leave the City’s employment but are rehired within six months will not have a break in service for purposes of vacation and sick leave accrual.
+
