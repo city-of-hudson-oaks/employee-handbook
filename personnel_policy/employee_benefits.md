@@ -218,7 +218,19 @@ Awards from the pool are prospective. State law prohibits the retroactive granti
 
 The City reserves the right to change modify, amend, revoke or rescind all or part of this policy at the discretion of the City Council.
 
-### 5.6 Bereavement Leave {#5-6-bereavement-leave}
+### 5.6 Maternity/Paternity Leave {#5-6-bereavement-leave}
+
+Employees shall receive up to 6 weeks of paid maternity leave or 2 weeks of paid paternity leave. Approved leave under this section:
+
+1. Shall be available for the birth of a child as well as the adoption of a child;
+2. Must be communicated in writing to the Department Head or City Administrator in advance, such that appropriate plans can be made in advance of the employee's absence;
+3. May begin prior to the birth of a child should a doctor require that the employee refrain from working. The employee wishing to take early leave should provide documentation to that effect prior to the commencement of leave time, unless extenuating circumstances make prior notice impracticable;
+4. Shall be limited to the time periods stated above during the course of a two-year period which shall begin at the commencement of leave.
+   1. For example, if the 6-week maternity leave begins on July 1 of the current year, the employee will not be eligible for leave under this section until July 1 two years later.
+
+Maternity and Paternity shall be defined under the provisions of the FMLA.
+
+### 5.7 Bereavement Leave {#5-6-bereavement-leave}
 
 Upon approval of the Department Head, up to five working days of paid leave per fiscal year may be provided to regular full and regular part-time employees to allow the employee to attend the funeral and make any necessary arrangements associated with the death of an immediate family member.
 
@@ -226,11 +238,11 @@ An employee who wishes to take bereavement leave must notify his or her supervis
 
 The City may require proof of death/funeral in support of bereavement leave. Bereavement leave pay is paid at the employee’s base rate at the time of absence. It does not include overtime. Paid time off for bereavement leave is not counted as hours worked for purposes of determining overtime.
 
-### 5.7 Jury Duty Leave {#5-7-jury-duty-leave}
+### 5.8 Jury Duty Leave {#5-7-jury-duty-leave}
 
 The City encourages employees to fulfill their civic responsibilities by serving on jury duty when required. Accordingly, regular full-time and part-time employees will be paid their normal earnings for time spent serving on a jury. Jury duty leave is paid at the employee’s base pay rate at the time of jury duty and does not include overtime. Paid time off for jury duty is not counted as hours worked for purposes of determining overtime. Employees must show their jury duty summons to their supervisor as soon as possible so that arrangements can be made to accommodate their absence. The employee may keep any jury fees paid for jury duty. Employees are expected to report to work whenever the court’s schedule permits.
 
-### 5.8 Witness Duty Leave {#5-8-witness-duty-leave}
+### 5.9 Witness Duty Leave {#5-8-witness-duty-leave}
 
 The City encourages employees to appear in court for witness duty when subpoenaed to do so. If employees have been subpoenaed or otherwise requested to testify as witnesses by the City, it will be considered part of their job duties and treated as hours worked.
 
@@ -238,11 +250,11 @@ When employees are requested or subpoenaed to testify in court by a party other 
 
 A subpoena for witness duty must be shown to the employee’s supervisor immediately after it is received so that employee staffing can be adjusted, where necessary, to accommodate the employee’s absence. The employee is expected to report for work whenever the court’s schedule permits.
 
-### 5.9 Time Off to Vote {#5-9-time-off-to-vote}
+### 5.10 Time Off to Vote {#5-9-time-off-to-vote}
 
 Employees are encouraged to exercise their right to vote in national, state, or municipal elections; however, employees are expected to vote during their non-working hours. If an employee needs additional time to vote, up to two hours paid leave may be authorized at the beginning or end of the work day. An employee must request time off to vote \(in writing\) from his or her supervisor at least 5 working days prior to Election Day. Any employee requesting paid time off for this purpose must show evidence of eligibility to vote, \(a current voter registration card\) when making the request. An employee is not eligible if the Election Day occurs on a non-work day.
 
-### 5.10 Military Leave {#5-10-military-leave}
+### 5.11 Military Leave {#5-10-military-leave}
 
 The City complies with all federal and state laws relating to employees in reserve or active military service, and does not discriminate against employees who serve in the military. The City supports its employees and their service in state and national military units and provides them with a number of military leave benefits.
 
@@ -261,6 +273,7 @@ This policy covers regular employees who serve in reserve or active military ser
    Upon an employee’s return to employment following military service, the City will provide health insurance coverage immediately, even if a waiting period is normally required for new or returning employees. In addition, a returning employee will not be subjected to exclusions from coverage unless the exclusions apply to injuries or conditions that were incurred as a result of military service.
 
 6. Other Benefits. While on paid military leave, employees continue to accrue vacation, sick leave and other benefits provided to other employees on paid leave. While on unpaid military leave, employees are generally ineligible for most City-provided benefits. Benefit accruals, such as vacation and sick leave, do not accrue while an employee is on unpaid leave, including unpaid military leave. While on unpaid military leave, benefit accruals will be suspended and will resume upon the employee’s return to active employment. Upon return to active employment following military leave, employees will be treated as though they were continuously employed for purposes of determining seniority and benefits based on length of service, such as vacation accrual.
+
 7. TMRS. Typically, an employee’s period of uniformed service is deemed to constitute service for purposes of vesting and benefit accrual. Thus, employees earn service credit for time spent on active duty military leave. Service time is credited when an employee returns to work. To qualify for service credit, an employee must return to work for the City within 90 days after discharge; receive an honorable discharge; and timely complete the necessary application. In order to receive monetary credit, an employee has the lesser of 5 years or 3 times the length of the military service to make up any TMRS contributions that were missed while on military leave.
 8. Returning from Leave.
    1. Re-employment Rights. In most cases, employees who complete their military service will be re-employed in their previous position or a similar position with the City. Federal law requires that employees returning from military leave be rehired in the position they would have had if they had been continuously employed. Since most jobs and promotions in the City are not awarded based on seniority, it is impossible to know what job an employee might have had if he/she had been continuously employed. This means most employees returning from military leave will typically be restored to the job they held at the commencement of their military leave.
@@ -273,7 +286,7 @@ This policy covers regular employees who serve in reserve or active military ser
    4. Rights to Continued Employment. Employees who actively serve in the military, and take military leave in excess of 6 months will not be discharged by the City without cause for 1 year following the date of their re-employment. Employees who actively serve for between 1 and 6 months will not be discharged without cause for 6 months following the date of their re-employment.
    5. Changed Circumstances. If the City’s circumstances have changed to such an extent that it would be impossible or unreasonable to reemploy an employee, the City has no legal obligation to reemploy an employee following his/her return from military leave. \(For example, a reduction-in-force that eliminates the position held by an employee returning from military leave.\) The City is not required to make efforts to qualify returning employees for particular positions or to make accommodations for employees who suffered service-related disabilities when such efforts or accommodations would impose an undue hardship on the City.
 
-### 5.11 Authorized Leave Without Pay {#5-11-authorized-leave-without-pay}
+### 5.12 Authorized Leave Without Pay {#5-11-authorized-leave-without-pay}
 
 In circumstances not falling within other leave policies, the City Administrator may, upon the recommendation of the appropriate Department Head and in his or her sole discretion, authorize leave without pay. Example of factors considered by the City in granting leave without pay include the reason for the leave, departmental work requirements, and the employee’s work performance and disciplinary history. Such leave will normally be granted up to a maximum period of 30 days. The Employee may seek extensions of leave up to a maximum of 6 months. This policy will be administered consistent with the City’s obligations under the Americans with Disabilities Act.
 
@@ -295,11 +308,11 @@ Before returning to work from a medical leave of absence, the employee will be r
 
 **Revocation.** The City Administrator may revoke “Authorized Leave Without Pay” at any time.
 
-### 5.12 On-the-Job Injury Leave {#5-12-on-the-job-injury-leave}
+### 5.13 On-the-Job Injury Leave {#5-12-on-the-job-injury-leave}
 
 Most on-the-job injuries are covered by the City’s workers’ compensation insurance. Please see the City’s Workers’ Compensation Benefits Policy. Employees may supplement any workers’ compensation wage benefits with any accrued vacation, holiday, sick or compensatory leave. However, in no event will an employee be paid more than 100% of his or her regular pay.
 
-### 5.13 Family and Medical Leave Act {#5-13-family-and-medical-leave-act}
+### 5.14 Family and Medical Leave Act {#5-13-family-and-medical-leave-act}
 
 The City provides leave to eligible employees in accordance with the Family and Medical Leave Act \(FMLA\). Under the FMLA, eligible employees may take up to 12 weeks of unpaid leave during a twelve month period for specified family and medical reasons. The 12-month period during which an employee is eligible for 12 work weeks of leave will be measured forward from the date of the employee’s first day of FMLA leave.
 
@@ -371,7 +384,7 @@ The employee’s use of FMLA leave will not result in the loss of any employment
 
 This policy is intended to explain benefits available to eligible employees under the FMLA. It is not intended to create any rights to leave beyond those created by the FMLA. If you would like additional information on the FMLA, please contact your supervisor. When an employee gives notice of the need for FMLA leave, the employee will be given additional information as to his or her rights and responsibilities under the FMLA. In addition, employees may contact the nearest office of the U.S. Department of Labor’s Wage & Hour Division for more information.
 
-### 5.14 Short-Term Unpaid Leave {#5-14-short-term-unpaid-leave}
+### 5.15 Short-Term Unpaid Leave {#5-14-short-term-unpaid-leave}
 
 Exempt employees may take a partial day of unpaid leave only under the following circumstances:
 
@@ -385,7 +398,7 @@ No deductions will be made from an exempt employee’s salary for absences, whet
 
 This policy is subject to the general rule that, absent accrued paid leave time, an employee need not be paid for any work week in which he or she performs no work.
 
-### 5.15 On-the-Job Injuries/Worker’s Compensation Benefits {#5-15-on-the-job-injuries-worker-s-compensation-benefits}
+### 5.16 On-the-Job Injuries/Worker’s Compensation Benefits {#5-15-on-the-job-injuries-worker-s-compensation-benefits}
 
 **Coverage.** The City provides workers’ compensation coverage for all employees through the Texas Municipal League. The Fund provides for medical expenses and partial compensation to employees injured on the job. The cost of such coverage is paid by the City and covers most injuries sustained on the job. Neither the City nor its workers’ compensation insurance carrier will be liable for the payment of workers’ compensation benefits for injuries that occur during an employee’s voluntary participation in any off-duty recreational, social, or athletic activity sponsored by the City. Such injuries, however, may be covered under your personal medical insurance plan.
 
@@ -417,7 +430,7 @@ An employee who does not agree or accept a bona fide offer of employment, includ
 
 **TMRS.** Employee contributions to TMRS made on the basis of temporary income benefits received through workers’ compensation may be made on a voluntary basis through a special arrangement with the City. It is the employee’s responsibility to initiate such an arrangement by timely contacting the City’s Human Resources Department and completing the necessary paperwork.
 
-### 5.16 Group Insurance Benefits {#5-16-group-insurance-benefits}
+### 5.17 Group Insurance Benefits {#5-16-group-insurance-benefits}
 
 **Life Insurance.** The City presently provides life insurance coverage for all regular full-time employees at no cost to the employee. Part-time and temporary employees are not eligible for participation. Eligibility for life insurance coverage usually begins after a brief waiting period required by the insurance carrier. Employee dependents may also be eligible for participation under the City’s life insurance plan. Dependant life insurance must be paid for by the employee through a payroll deduction.
 
@@ -427,11 +440,11 @@ An employee who does not agree or accept a bona fide offer of employment, includ
 
 **Additional Information.** This is only a general description of available group insurance coverage. For additional information regarding the City’s group insurance policies, you may review the appropriate Summary Plan Description and/or contact the Human Resources Department.
 
-### 5.17 Unemployment Insurance Benefits {#5-17-unemployment-insurance-benefits}
+### 5.18 Unemployment Insurance Benefits {#5-17-unemployment-insurance-benefits}
 
 The program provides weekly benefits if you become unemployed through no fault of your own or due to circumstances described in the law.
 
-### 5.18 Texas Municipal Retirement System {#5-18-texas-municipal-retirement-system}
+### 5.19 Texas Municipal Retirement System {#5-18-texas-municipal-retirement-system}
 
 The City participates in the Texas Municipal Retirement System \(TMRS\) to provide retirement benefits for employees. Full-time employees are eligible for participation immediately upon employment. Regular part-time employees who work at least 1,000 hours or more per year are also eligible for participation immediately upon employment. Temporary employees are not eligible for participation in TMRS.
 
@@ -441,15 +454,15 @@ The above information is a summary only. Additional information is provided in t
 
 Appropriate forms must be filed with TMRS before contributions can be refunded. Employees terminating employment after the mandatory contribution time have the choice of remaining in TMRS or receiving a refund of their contributions to date, subject to TMRS’ regulations.
 
-### 5.19 Deferred Compensation 457 Plan {#5-19-deferred-compensation-457-plan}
+### 5.20 Deferred Compensation 457 Plan {#5-19-deferred-compensation-457-plan}
 
 Regular full-time employees have the option to contribute to the International City Administrators Association Retirement Corporation 457 retirement plan through payroll deduction. Additional information on this benefit may be obtained from the Human Resources Coordinator. Eligibility begins after 30 days of employment.
 
-### 5.20 Social Security {#5-20-social-security}
+### 5.21 Social Security {#5-20-social-security}
 
 The City of Hudson Oaks does not participate in Social Security, and does not withhold Social Security wages.
 
-### 5.21 Light Duty {#5-21-light-duty}
+### 5.22 Light Duty {#5-21-light-duty}
 
 Light duty assignments for employees with a disability, illness or medical condition which makes them unable to perform their regular job duties are made at the sole discretion of the City, for up to a maximum of three months. The City may terminate a light duty assignment at any time in its accordance with the City’s operational needs. While a genuine effort will be made to locate light duty assignments for employees when temporary medical restrictions preclude their return to their regular duties, the City will not create light duty assignments.
 
@@ -461,11 +474,11 @@ Employees on FMLA leave may have the option, but will not be required, to perfor
 
 The employee's physician must review and certify that the employee can perform the light duty assignment. The City reserves the right to require an employee to be medically released \(i.e., able to perform his/her essential job functions with or without a reasonable accommodation\) before returning to full and regular duty.
 
-### 5.22 Free Checking at City Depository {#5-22-free-checking-at-city-depository}
+### 5.23 Free Checking at City Depository {#5-22-free-checking-at-city-depository}
 
 Employees and family members are eligible to receive free checking accounts at the City’s bank depository. Additional information may be obtained from the Human Resources Coordinator. Eligibility begins 30 days from the first day of employment.
 
-### 5.23 Cafeteria Plan {#5-23-cafeteria-plan}
+### 5.24 Cafeteria Plan {#5-23-cafeteria-plan}
 
 Under section 125 of the IRS Code, employees may pay for dependent health, accident, and dental insurance deductions on a pre-taxed basis in accordance with Section 125 of the Internal Revenue Code. This election is made annually. Eligibility begins 30 days from the first day of employment.
 
