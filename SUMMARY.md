@@ -1,6 +1,6 @@
 # Summary
 
-* [Employee Handbook](README.md)
+* [About](README.md)
 * [Employee Handbook](personnel_policy/README.md)
   * [Employee Acknowledgement Form](personnel_policy/employee_acknowledgement_form.md)
   * [Welcome Statement](personnel_policy/welcome_statement.md)

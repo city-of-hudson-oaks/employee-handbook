@@ -1,6 +1,6 @@
 ## Employee Acknowledgement Form {#employee-acknowledgement-form}
 
-The City of Hudson Oaks \(the “City”\) Employee Handbook, revised **April 1, 2017**, describes important information about the City’s personnel policies and procedures, and I understand that I should consult my supervisor and/or my Department Head regarding any questions not answered in the Employee Handbook. I have entered my employment relationship with the City voluntarily and acknowledge that there is no specified length of employment. Accordingly, either I or the City can terminate the relationship at will, with or without cause, at any time.
+The City of Hudson Oaks \(the “City”\) Employee Handbook, revised **March 24, 2017**, describes important information about the City’s personnel policies and procedures, and I understand that I should consult my supervisor and/or my Department Head regarding any questions not answered in the Employee Handbook. I have entered my employment relationship with the City voluntarily and acknowledge that there is no specified length of employment. Accordingly, either I or the City can terminate the relationship at will, with or without cause, at any time.
 
 Except for the City’s employment-at-will policy, all the information, policies, and benefits described in the Employee Handbook are subject to change. I understand that revised information may supersede, modify, or eliminate existing policies. In the event of a conflict, I understand that the Employee Handbook supersedes all department policies. I agree that any conflicts or ambiguities in City policies and procedures will be decided by the City Administrator.
 
@@ -10,19 +10,19 @@ I have received the Employee Handbook, and I understand that it is my responsibi
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-EMPLOYEE'S SIGNATURE 
+EMPLOYEE'S SIGNATURE
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 DATE
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 EMPLOYEE'S NAME \(TYPED OR PRINTED\)
 
