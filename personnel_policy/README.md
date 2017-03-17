@@ -1,6 +1,6 @@
 # City of Hudson Oaks Employee Handbook {#personnel-policy}
 
-Effective November 15, 2007
+Effective April 1, 2017
 
 ![](/assets/logo.jpeg)
 
