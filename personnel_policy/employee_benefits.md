@@ -46,7 +46,7 @@ Regular part-time employees and temporary and seasonal employees do not accrue v
 | Years of Service | Rate of Accrual |
 | :--- | :--- |
 | 1-5 | 84 hours per year \(3.23 per pay period\) |
-| 6.15 | 126 hours per year \(4.85 per pay period\) |
+| 6-15 | 126 hours per year \(4.85 per pay period\) |
 | 16+ | 168 hours per year \(6.46 per pay period\) |
 
 An employee’s “Years of Service” may be adjusted for any significant leave of absence, except military leave.
@@ -261,6 +261,7 @@ This policy covers regular employees who serve in reserve or active military ser
    Upon an employee’s return to employment following military service, the City will provide health insurance coverage immediately, even if a waiting period is normally required for new or returning employees. In addition, a returning employee will not be subjected to exclusions from coverage unless the exclusions apply to injuries or conditions that were incurred as a result of military service.
 
 6. Other Benefits. While on paid military leave, employees continue to accrue vacation, sick leave and other benefits provided to other employees on paid leave. While on unpaid military leave, employees are generally ineligible for most City-provided benefits. Benefit accruals, such as vacation and sick leave, do not accrue while an employee is on unpaid leave, including unpaid military leave. While on unpaid military leave, benefit accruals will be suspended and will resume upon the employee’s return to active employment. Upon return to active employment following military leave, employees will be treated as though they were continuously employed for purposes of determining seniority and benefits based on length of service, such as vacation accrual.
+
 7. TMRS. Typically, an employee’s period of uniformed service is deemed to constitute service for purposes of vesting and benefit accrual. Thus, employees earn service credit for time spent on active duty military leave. Service time is credited when an employee returns to work. To qualify for service credit, an employee must return to work for the City within 90 days after discharge; receive an honorable discharge; and timely complete the necessary application. In order to receive monetary credit, an employee has the lesser of 5 years or 3 times the length of the military service to make up any TMRS contributions that were missed while on military leave.
 8. Returning from Leave.
    1. Re-employment Rights. In most cases, employees who complete their military service will be re-employed in their previous position or a similar position with the City. Federal law requires that employees returning from military leave be rehired in the position they would have had if they had been continuously employed. Since most jobs and promotions in the City are not awarded based on seniority, it is impossible to know what job an employee might have had if he/she had been continuously employed. This means most employees returning from military leave will typically be restored to the job they held at the commencement of their military leave.
