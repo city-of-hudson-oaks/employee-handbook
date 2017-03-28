@@ -46,7 +46,7 @@ Regular part-time employees and temporary and seasonal employees do not accrue v
 | Years of Service | Rate of Accrual |
 | :--- | :--- |
 | 1-5 | 84 hours per year \(3.23 per pay period\) |
-| 6.15 | 126 hours per year \(4.85 per pay period\) |
+| 6-15 | 126 hours per year \(4.85 per pay period\) |
 | 16+ | 168 hours per year \(6.46 per pay period\) |
 
 An employee’s “Years of Service” may be adjusted for any significant leave of absence, except military leave.
